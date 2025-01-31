@@ -3,13 +3,10 @@ import React from 'react'
 function Contact() {
   return (
     <div >
-     <form className='flex flex-col items-center justify-center ' >
-        <input className='bg-black text-white mt-6 px-6 py-3' type="text" placeholder='Insert text' />
-        <input className='bg-black text-white mt-6 px-6 py-3' type="color" />
-        <input className='bg-black text-white mt-6 px-6 py-3' type="checkbox"/>
-        <input className='bg-black text-white mt-6 px-6 py-3' type="date" />
-
-     </form>
+     <h1 className='text-center text-3xl mt-10 font-bold'>Contact</h1>
+      <p className='text-center mt-5 text-lg bg-amber-200  '>
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam
+      </p>
     </div>
   )
 }
