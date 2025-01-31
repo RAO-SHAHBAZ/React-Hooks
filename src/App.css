@@ -1,0 +1,13 @@
+
+.count{
+  font-size: 2em;
+  color: #888;
+  border: 1px solid salmon;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+}
+
+.counterValue{
+  font-size: 2em;
+  color: salmon;
+}
